@@ -1,5 +1,4 @@
-dj-database-url==0.4.1
-Django==1.9.7
+dj-database-url==0.4.2
 gunicorn==19.6.0
-psycopg2==2.6.1
-whitenoise==2.0.6
+pkg-resources==0.0.0
+whitenoise==3.2.3
